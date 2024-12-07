@@ -162,10 +162,10 @@ font-style: normal;
 
 
 nav{
-	font-family: "dunbar-text", sans-serif; /*---- new text for links after critique ---- */
+font-family: "dunbar-text", sans-serif; /*---- new text for links after critique ---- */
+font-size: 1.2em;
 font-weight: 700;
 font-style: italic;
-	font-size: 1.2em;
 	width: 80%; /* ---- This is for responsiveness ---- */
 	margin: 0 auto;
 	border-width: 3px 0;
